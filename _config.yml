@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiyuan An"
+title                    : "Zhiyuan An (安致远)"
 description              : "Zhiyuan An's homepage for cryptography"
 repository               : "anzhy-crypto/homepage.github.io"
 google_scholar_stats_use_cdn : true
