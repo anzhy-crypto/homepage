@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='/#about-me'></span>
 
 My research interest includes public key encryption with advanced functionalities and lattice-based cryptography. I have published 5 fisrt-authored papers at some international cryptography conferences/journals.
 
