@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes public key encryption with advanced functionalities and lattice-based cryptography. I have published 5 fisrt-authored papers at some international cryptography conferences/journals with total <a href='https://scholar.google.com/citations?user=R_aUmP0AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
+My research interest includes public key encryption with advanced functionalities and lattice-based cryptography. I have published 5 fisrt-authored papers at some international cryptography conferences/journals</span></strong></a>.
 
 
 
