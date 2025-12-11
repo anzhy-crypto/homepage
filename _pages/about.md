@@ -19,10 +19,7 @@ My research interest includes public key encryption with advanced functionalitie
 - [Deniable cryptosystems: simpler constructions and achieving leakage resilience](https://link.springer.com/chapter/10.1007/978-3-031-50594-2_2), **Zhiyuan An**, Haibo Tian, Chao Chen, Fangguo Zhang, **ESORICS 2023**
 - [Forward-Secure Revocable Secret Handshakes from Lattices](https://link.springer.com/chapter/10.1007/978-3-031-17234-2_21), **Zhiyuan An**, Jing Pan, Yamin Wen, Fangguo Zhang, **PQCrypto 2022**
 - [Secret Handshakes: Full Dynamicity, Deniability and Lattice-Based Design](https://www.sciencedirect.com/science/article/pii/S0304397522006466), **Zhiyuan An**, Jing Pan, Yamin Wen, Fangguo Zhang, **Theoretical Computer Science**
-- [Lattice-Based Secret Handshakes with Reusable Credentials](https://link.springer.com/chapter/10.1007/978-3-030-88052-1_14), **Zhiyuan An**, Zhuoran Zhang, Yamin Wen, Fangguo Zhang, **ICICS 2021**
-
-<span class='anchor' id='-honors-and-awards'></span>
-# 🎖 Honors and Awards
+- [Lattice-Based Secret Handshakes with Reusable Credentials](https://link.springer.com/chapter/10.1007/978-3-030-88052-1_14), **Zhiyuan An**, Zhuoran Zhang, Yamin Wen, Fangguo Zhang, **ICICS 2021** 
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
@@ -35,4 +32,15 @@ My research interest includes public key encryption with advanced functionalitie
 - *2025-05*, "Deny Whatever You Want: Dual-Deniable Public-Key Encryption", PKC 2025, Røros, Norway. 
 - *2023-09*, "Deniable cryptosystems: simpler constructions and achieving leakage resilience", ESORICS 2023, The Hague, The Netherlands.
 - *2022-09*, "Forward-Secure Revocable Secret Handshakes from Lattices", PQCrypto 2022, Online.
-- *2021-11*, "Lattice-Based Secret Handshakes with Reusable Credentials", ICICS 2021, Online. 
+- *2021-11*, "Lattice-Based Secret Handshakes with Reusable Credentials", ICICS 2021, Online.
+
+<span class='anchor' id='-services'></span>
+# ✍️ Services
+- Sub-reviewer of many cryptographic conferences, e.g., PKC 2026, PKC 2025, ACISP 2025, ACISP 2024, ISC 2023
+- Volunteer of IACR for ASIACRYPT 2023, Guangzhou, China
+
+<span class='anchor' id='-teaching'></span>
+# 📚 Teaching
+- TA of graduate course *Computational Complexity*, 2023 Fall, Sun Yat-sen University
+- TA of undergraduate course *Modern Cryptography*, 2023 Spring & 2024 Spring, Sun Yat-sen University
+- TA of undergraduate course *Implementations of Modern Cryptography*, 2023 Spring & 2024 Spring, Sun Yat-sen University
